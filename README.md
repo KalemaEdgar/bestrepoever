@@ -1,2 +1,2 @@
 # bestrepoever
-This is a good repo when testing out TrailHead stuff
+This is a nice repo when testing out TrailHead stuff
